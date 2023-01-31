@@ -9,10 +9,12 @@ ipfs id 12D3KooWJxhMn6wo5qRYZGCvaKAJJHJ7yvBG1njmm8tnDS34NmAf
 ipfs get QmURtozPMVNRxvEsft6M5o4yqMcPg7Fvw2bZcZY9jFfurW
 ```
 
+You can check the file's reachable status [here](https://ipfs-check.on.fleek.co/?cid=QmURtozPMVNRxvEsft6M5o4yqMcPg7Fvw2bZcZY9jFfurW&multiaddr=%2Fp2p%2F12D3KooWJxhMn6wo5qRYZGCvaKAJJHJ7yvBG1njmm8tnDS34NmAf).
+
 ## Usage
 
-> **Warning**
-> This repo `git lfs` has been disabled due to being over the storage limit.
+>**Warning**
+>This repo `git lfs` has been disabled due to being over the storage limit.
 
 ```
 git clone https://github.com/eth-collision/eth-address-all
